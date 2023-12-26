@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.xmader.aria_ng_gui_android" version="1.3.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>AriaNgGUI</name>
+    <name>D-air加速助手</name>
     <description>
         一个 Aria2 图形界面跨平台客户端 (此为Android版)
     </description>
     <author href="https://github.com/duweiyan">
-        Xmader
+        根据程序员Xmader基础代码更新制作
     </author>
     <content src="index.html" />
     <icon src="icon.png" />
